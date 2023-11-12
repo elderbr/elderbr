@@ -19,6 +19,18 @@ Um apaixonado por programação, procurando sempre se renovar.
 	<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elderbr&theme=gruvbox&show_icons=true)
+![ElderBR GitHub stats](https://github-readme-stats.vercel.app/api?username=elderbr&theme=gruvbox&show_icons=true)
+
+Como um apaixonado por Minecraft fiz alguns plugins para o jogo, onde o meu favorito é o [Smart Hopper](https://github.com/elderbr/SmartHopper) o separador de item inteligente.
+O sistema de armazém sem o uso de redstone diminuindo o espaço e o lag do servidor.
+ 
+ #### Esta disponível no site oficial da Spigot Mc e no Curso Forge
+ 
+ <a href="https://www.spigotmc.org/resources/separador-inteligente.73646/" >
+	 <img src="https://static.spigotmc.org/img/spigot.png" alt="Spigot Logo" style="width:210px" />
+ </a> 
+ <a href="https://legacy.curseforge.com/minecraft/bukkit-plugins/smarthopper" >
+	<img src="https://i.imgur.com/9weYDWf.png" alt="Curse Forge Logo" style="width:210px;height:200px" />
+</a>
 
 ### Atualmente estudando Spring Boot com DevSuperior
