@@ -1,6 +1,6 @@
 ## Olá o meu nome é ElderBR
 
-[![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCh6h-NyuRtVbpxI5c920Fwg)[![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](ElderBR#5398)
+[![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCh6h-NyuRtVbpxI5c920Fwg)[![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/ElderBR#5398/add)
 
 Um apaixonado por programação, procurando sempre se renovar.
 
