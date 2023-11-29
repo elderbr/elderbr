@@ -26,11 +26,12 @@ O sistema de armazém sem o uso de redstone diminuindo o espaço e o lag do serv
  
  #### Esta disponível no site oficial da Spigot Mc e no Curso Forge
  
- <a href="https://www.spigotmc.org/resources/separador-inteligente.73646/" target="_blank">
-	 <img src="https://static.spigotmc.org/img/spigot.png" alt="Spigot Logo" style="width:210px" />
- </a> 
- <a href="https://legacy.curseforge.com/minecraft/bukkit-plugins/smarthopper" target="_blank" >
-	<img src="https://i.imgur.com/9weYDWf.png" alt="Curse Forge Logo" style="width:210px;height:200px" />
+<a href="https://www.spigotmc.org/resources/smarthopper.73646/" alt="SpigotMc" target="_blank">
+    <img  src="https://github.com/elderbr/assets/blob/main/smarthopper/spigotmc_logo.png?raw=true"  width="150"  height="150">
+</a>
+
+<a href="https://legacy.curseforge.com/minecraft/bukkit-plugins/smarthopper" alt="CursoForge" target="_blank">
+    <img  src="https://github.com/elderbr/assets/blob/main/smarthopper/cursoforege_logo.png?raw=true"  width="150"  height="150">
 </a>
 
 ### Atualmente estudando Spring Boot com DevSuperior
