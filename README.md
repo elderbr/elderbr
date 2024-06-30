@@ -1,5 +1,5 @@
 ## Olá pessoal! 
-Sou o ElderBR, um entusiasta da programação e atualmente motorista de ônibus urbano em São Paulo. Com 39 anos, estou determinado a realizar minha transição de carreira para o universo da programação.
+Sou o ElderBR, um entusiasta da programação e atualmente motorista de ônibus urbano em São Paulo. Com 40 anos, estou determinado a realizar minha transição de carreira para o universo da programação.
 
 ## Interesses e Objetivos:
 Minha paixão por programação, especialmente em Java, tem crescido ao longo do tempo. Atualmente, busco me aprimorar como programador, contribuindo para projetos interessantes e desafiadores. Meu objetivo é me tornar um profissional de programação e utilizar minhas habilidades para criar soluções inovadoras.
