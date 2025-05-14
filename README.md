@@ -26,10 +26,31 @@ Estou empolgado com a jornada que se desenha pela frente e ansioso para contribu
 
 ![ElderBR GitHub stats](https://github-readme-stats.vercel.app/api?username=elderbr&theme=gruvbox&show_icons=true)
 
+## WhatsRobot (Privado)
+O WhatsRobot é um aplicativo projetado para facilitar o envio de mensagens em massa pelo WhatsApp. Ele foi desenvolvido para atender às necessidades de usuários que participam de vários grupos no WhatsApp e têm dificuldade em ler todas as mensagens ou enviar mensagens importantes que se perdem no meio do fluxo de conversas dos grupos.
+
+Com o WhatsRobot, você pode enviar mensagens importantes de forma eficiente, garantindo que elas sejam vistas por todos os membros dos grupos. O aplicativo coleta os contatos de todos os participantes do grupo e envia a mensagem individualmente para cada membro, aumentando a visibilidade da sua mensagem.
+
+### Assista o vídeo demostrativo
+[![youtube](https://github.com/elderbr/assets/blob/main/WhatsRobot/capa.png)](https://www.youtube.com/watch?v=X4hSJqJbr6M)
+
+
+# Quantas Horas
+
+Gerenciar seu tempo de trabalho nunca foi tão fácil! Com o 'Quantas Horas', você tem ao alcance dos dedos uma ferramenta poderosa que simplifica como você calcula sua jornada diária, horas extras e adicional noturno, tudo isso sem comprometer seus dados pessoais.
+Projetado com simplicidade e eficiência em mente, o 'Quantas Horas' é ideal para o controle do tempo de trabalho.
+
+## Assista o vídeo demostrativo
+[![youtube](https://raw.githubusercontent.com/elderbr/assets/main/quantashoras/youtube.png)](https://youtu.be/gu37Xr_FAGo?si=3kgjOiZPYq50V5pF)
+#### Veja o projeto
+[Github Quantas Horas](https://github.com/elderbr/Quantas-Horas)
+
+
+## Smart Hopper o separador inteligente
 Como um apaixonado por Minecraft fiz alguns plugins para o jogo, onde o meu favorito é o [Smart Hopper](https://github.com/elderbr/SmartHopper) o separador de item inteligente.
 O sistema de armazém sem o uso de redstone diminuindo o espaço e o lag do servidor.
  
- #### Esta disponível no site oficial da Spigot Mc e no Curso Forge
+ ### Esta disponível no site oficial da Spigot Mc e no Curso Forge
  
 <a href="https://www.spigotmc.org/resources/smarthopper.73646/" alt="SpigotMc" target="_blank">
     <img  src="https://github.com/elderbr/assets/blob/main/smarthopper/spigotmc_logo.png?raw=true"  width="150"  height="150">
