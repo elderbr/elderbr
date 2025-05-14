@@ -1,5 +1,11 @@
 ## Olá pessoal! 
-Sou o ElderBR, um entusiasta da programação e atualmente motorista de ônibus urbano em São Paulo. Com 40 anos, estou determinado a realizar minha transição de carreira para o universo da programação.
+Meu nome é **Elder Barbosa Romão**, sou de São Paulo e atualmente trabalho como motorista de ônibus urbano. Mas além de conduzir pelas ruas da cidade, também sigo firme no caminho para realizar um grande sonho: me tornar um programador backend em Java reconhecido no mercado.
+
+Minha paixão por programação começou quando fiz um curso de programação gráfica, onde tive meu primeiro contato com JavaScript. A partir dali, percebi que aquilo era mais que um interesse — era vocação. Fui atrás de aprender por conta própria. Sou autodidata, movido pela curiosidade e pela vontade de crescer.
+
+Com o tempo, fui me aprofundando em Java e me especializando em desenvolvimento backend, usando tecnologias como Spring Boot, além de ter conhecimento em HTML5, CSS, JavaScript, ReactJS, YAML e JSON. Já tive a oportunidade de contribuir profissionalmente desenvolvendo endpoints para o Bradesco Seguro Auto, o que reforçou ainda mais meu desejo de seguir nessa carreira.
+
+Divido meus dias entre o volante e os códigos: trabalho de manhã e estudo programação à tarde. É um ritmo puxado, mas totalmente motivado pelo meu maior objetivo: dar uma vida melhor para minha família. Eles são a minha maior inspiração e é por eles que busco ser um profissional de destaque, alguém respeitado na área e com estabilidade para proporcionar o melhor para quem amo.
 
 ## Interesses e Objetivos:
 Minha paixão por programação, especialmente em Java, tem crescido ao longo do tempo. Atualmente, busco me aprimorar como programador, contribuindo para projetos interessantes e desafiadores. Meu objetivo é me tornar um profissional de programação e utilizar minhas habilidades para criar soluções inovadoras.
